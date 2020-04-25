@@ -181,7 +181,7 @@ const SHOP_DATA = [
         id: 4,
         name: "Red Dots Dress",
         imageUrl:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIFpNkEmoZ-cFqSpYEUGoeq69zGG-tdSOft1YkjbyzXlA_SiTh&usqp=CAU",
+          "https://www.fcplaza.com/images/201906/goods_img/34456_P_1559838560852.jpg",
         price: 80,
       },
       {
